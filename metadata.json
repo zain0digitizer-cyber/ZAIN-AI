@@ -1,0 +1,6 @@
+{
+  "name": "ZAIN TECH — Futuristic AI Platform",
+  "description": "Your Intelligence. Your Creativity. Your Future. Full-stack AI platform with AI Chat, Code Assistant, Image Studio, Voice AI, Programming Learning Hub, Website Builder, and more.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
